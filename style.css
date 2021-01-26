@@ -1,13 +1,3 @@
-.container-fluid {
-    background-color: blue;
+.container {
+    background-color: rgb(209, 146, 238);
 }
-
-.row {
-    background-color: red;
-}
-
-.item {
-    background-color: lightcoral;
-    border: 1px solid black;
-}
-
