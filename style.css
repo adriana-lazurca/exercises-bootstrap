@@ -1,7 +1,12 @@
 .container {
-    background-color: rgb(209, 146, 238);
+    background-color: rgb(226 180 247);
 }
 
 .add-color {
-    background-color: rgb(209, 146, 238);
+    background-color: rgb(226 180 247);
 }
+
+/* p {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+} */
