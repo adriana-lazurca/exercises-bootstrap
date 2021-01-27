@@ -1,12 +1,15 @@
+
 .container {
     background-color: rgb(226 180 247);
-}
+    margin-bottom: 5%;
+    margin-top: 3%;
+  }
 
 .bg-purple {
-    background-color: rgb(226 180 247);
+  background-color: rgb(226 180 247);
 }
 
-/* p {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-} */
+p {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
